@@ -2,7 +2,7 @@
 
 ### नमस्ते (Namaste)🙏🏻, i'm [Jaymin Nayak](https://jimmynayak.github.io/), a passionate self-taught Android Application Developer and software engineer from India. But everyone calls me JIMMY! Jimmy the iron-born – First of his name, a passionate about learning new Technologies, Self-Motivated, king of sarcasm, die-hard IronMan fan, and above all – The Programmer.
 
-I enjoy problem-solving and coding. Always strive to bring 100% to the work I do. I have worked on technologies like Android, Xamarin, Kotlin, Java, C# . I have 8+ years of professional work experience which helped me strengthen my experience in Mobile application development. I am passionate about developing complex applications that solve real-world problems impacting millions of users.
+### I enjoy problem-solving and coding. Always strive to bring 100% to the work I do. I have worked on technologies like Android, Xamarin, Kotlin, Java, C# . I have 8+ years of professional work experience which helped me strengthen my experience in Mobile application development. I am passionate about developing complex applications that solve real-world problems impacting millions of users.
 
 [![Linkedin Badge](https://img.shields.io/badge/-JimmyNayak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaymin-nayak/)](http://www.linkedin.com/in/jaymin-nayak)
 
@@ -21,6 +21,8 @@ I enjoy problem-solving and coding. Always strive to bring 100% to the work I do
 <img align="left" alt="Flutter" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Jetpack Compose" width="50px" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/jetpack-compose/jetpack-compose.png" />
+<img lign="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+<img lign="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 
 <br>
 <br>
@@ -45,3 +47,5 @@ I enjoy problem-solving and coding. Always strive to bring 100% to the work I do
 
 <!--[website]: -->
 [Website]: https://jimmynayak.github.io/
+
+ [![HitCount](https://hits.dwyl.com/JimmyNayak/JimmyNayak.svg?style=flat-square&show=unique)](http://hits.dwyl.com/JimmyNayak/JimmyNayak)
