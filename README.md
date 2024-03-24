@@ -25,22 +25,14 @@
 <img lign="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 
 <br>
-<br>
 
-### :zap: Github Stats
-<p>
-    <a href="https://gitstats.me/immyNayak" target="_blank"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=JimmyNayak&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
-    </a>
-</p>
+## 📈 Profile Stats
 
-<br>
-<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JimmyNayak&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyNayak&layout=compact&theme=transparent&hide_border=true)](https://github.com/JimmyNayak/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyNayak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Jaaymin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimmyNayak&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/JimmyNayak)
+[![Jaymin Nayak StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5582190&theme=dark)](https://stackoverflow.com/users/5582190/jaymin)
 
-<br>
-<br>
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
