@@ -8,7 +8,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-JimmyNayak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaymin-nayak/)](http://www.linkedin.com/in/jaymin-nayak)
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left">
 
 <img alt="Android" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png" />
@@ -29,7 +29,7 @@
 </p>
 <br>
 
-<h3 align="left">📈 Profile Stats:</h3>
+### 📈 Profile Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JimmyNayak&theme=transparent&hide_border=true)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyNayak&layout=compact&theme=transparent&hide_border=true)](https://github.com/JimmyNayak/github-readme-stats)
 
