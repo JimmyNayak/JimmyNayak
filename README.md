@@ -2,13 +2,14 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&random=false&width=435&lines=Android+Application+Developer;Xamarin;Self-churner;Knowledge+Seeker;Fast+Learner;The+Programmer" alt="Typing SVG" /></a>
 
-### नमस्ते (Namaste)🙏🏻, i'm [Jaymin Nayak](https://jimmynayak.github.io/), a passionate self-taught Android Application Developer and software engineer from India. But everyone calls me JIMMY! Jimmy the iron-born – First of his name, a passionate about learning new Technologies, Self-Motivated, king of sarcasm, die-hard IronMan fan, and above all – The Programmer.
+### नमस्ते (Namaste)🙏🏻, i'm [Jaymin Nayak](https://jimmynayak.github.io/), a passionate self-taught Android Application Developer and software engineer from India.
 
 ### I enjoy problem-solving and coding. Always strive to bring 100% to the work I do. I have worked on technologies like Android, Xamarin, Kotlin, Java, C# . I have 8+ years of professional work experience which helped me strengthen my experience in Mobile application development. I am passionate about developing complex applications that solve real-world problems impacting millions of users.
 
 [![Linkedin Badge](https://img.shields.io/badge/-JimmyNayak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaymin-nayak/)](http://www.linkedin.com/in/jaymin-nayak)
 
 ### Languages and Tools:
+
 <p align="left">
 
 <img alt="Android" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png" />
