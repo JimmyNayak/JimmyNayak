@@ -1,4 +1,6 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+![Header](./img/jn_github_header.png)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&random=false&width=435&lines=Android+Application+Developer;Xamarin;Self-churner;Knowledge+Seeker;Fast+Learner;The+Programmer" alt="Typing SVG" /></a>
 
 ### नमस्ते (Namaste)🙏🏻, i'm [Jaymin Nayak](https://jimmynayak.github.io/), a passionate self-taught Android Application Developer and software engineer from India. But everyone calls me JIMMY! Jimmy the iron-born – First of his name, a passionate about learning new Technologies, Self-Motivated, king of sarcasm, die-hard IronMan fan, and above all – The Programmer.
 
@@ -6,8 +8,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-JimmyNayak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaymin-nayak/)](http://www.linkedin.com/in/jaymin-nayak)
 
-
-**languages and tools:**  
+**languages and tools:**
 
 <img align="left" alt="Android" width="50px" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png" />
 <img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
@@ -28,16 +29,16 @@
 
 ## 📈 Profile Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JimmyNayak&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyNayak&layout=compact&theme=transparent&hide_border=true)](https://github.com/JimmyNayak/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JimmyNayak&theme=transparent&hide_border=true)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyNayak&layout=compact&theme=transparent&hide_border=true)](https://github.com/JimmyNayak/github-readme-stats)
 
 [![Jaaymin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimmyNayak&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/JimmyNayak)
 [![Jaymin Nayak StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5582190&theme=dark)](https://stackoverflow.com/users/5582190/jaymin)
-
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--[website]: -->
+
 [Website]: https://jimmynayak.github.io/
 
- [![HitCount](https://hits.dwyl.com/JimmyNayak/JimmyNayak.svg?style=flat-square&show=unique)](http://hits.dwyl.com/JimmyNayak/JimmyNayak)
+[![HitCount](https://hits.dwyl.com/JimmyNayak/JimmyNayak.svg?style=flat-square&show=unique)](http://hits.dwyl.com/JimmyNayak/JimmyNayak)
